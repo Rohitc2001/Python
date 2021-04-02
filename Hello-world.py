@@ -1,1 +1,1 @@
-Print("Hello World in Python");
+Print("WELCOME to World of Python")
