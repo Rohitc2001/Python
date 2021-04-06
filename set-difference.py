@@ -1,5 +1,4 @@
-												# Program to print set Difference
-
+							# Program to print set Difference
 set1 = set(["Rohit","Ishika","Rohan","Nehal"])
 set2 = set(["Rohan","Nehal"])
 
